@@ -44,3 +44,5 @@ Quelques conseils:
 Personnellement, j'ai fait valider un compte Twitter qui n'est pas mon compte principal. Cela a marché. Toutefois, je peux supposer que faire valider un compte créé trop récemment peut poser problème.
 
 La validation du compte peut prendre un temps non négligeable: elle est faite par de vrais employés de Twitter, sans automatisation. Si la validation du compte est nécessaire pour la réalisation d'un projet de recherche, il faut donc la faire bien en amont du démarrage du projet ou du moins de l'étape du projet nécessitant de collecter des tweets.
+
+[<<< Retour](01TwitteretsonAPI.md) | [Suite >>>](03InstallationTwarc.md)
