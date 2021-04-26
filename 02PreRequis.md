@@ -17,13 +17,13 @@ Une fois python installé, quelques vérifications:
 
 et taper la commande:
 
-> python --version
+`python --version`
 
 Le résultat devrait être quelque chose comme: 'Python 3.x.x'.
 
 Nous devons aussi vérifier que l'utilitaire pour python 'pip' est installé:
 
-> pip --version
+`pip --version`
 
 Le résultat devrait être quelque chose comme: 'pip 21.0.1 from /chemin/installation/de/pip (python 3.x)'
 
