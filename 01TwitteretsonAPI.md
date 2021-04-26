@@ -40,4 +40,4 @@ Un autre avantage est aussi que twarc gère les deux version de l'API, la v1.1 a
 
 Twarc a mené à un projet plus vaste dont il est maintenant une partie, Documenting the Now (DocNow), coopération entre l'université du Maryland, l'Université de Virginie, le [Shift collective](https://www.shiftcollective.us/) et la fondation A. Mellon. Consulter le site de [DocNow](https://www.docnow.io/) est intéressant, car d'autres outils que twarc y sont proposés. Le site renvoit notamment à un meta-catalogue de corpus de tweets.
 
-[Suite](02PreRequis.md)
+[Suite >>>](02PreRequis.md)
