@@ -2,19 +2,19 @@
 
 À partir de maintenant, nous considérons que vous avez un compte développeur "académique" de Twitter.
 
-![](img/01.png)
+![](img/app01.png)
 
-![](img/02.png)
+![](img/app02.png)
 
-![](img/03.png)
+![](img/app03.png)
 
-![](img/04.png)
+![](img/app04.png)
 
-![](img/05.png)
+![](img/app05.png)
 
-![](img/06.png)
+![](img/app06.png)
 
-![](img/07.png)
+![](img/app07.png)
 
 
 
