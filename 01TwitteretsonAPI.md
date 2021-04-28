@@ -26,7 +26,7 @@ Attention, l'utilisation d'outils respectant les terms of usage (TOS) de Twitter
 
 ## Les nouveautés de l'API v2
 
-Pour le moment, la version de l'API de Twitter qui reste valable est le 1.1. La v2 la remplacera à un horizon non encore déterminé. La grande nouveauté, pour les chercheurs et chercheuses, de la v2 est la possibilité d'y demander accès en tant que chercheur / chercheuse et d'avoir un accès nettement plus large à l'historique des tweets: on passe de 3000 tweets par heure sur 7 jours max à 10 millions de tweets sur l'ensemble de l'historique de Twitter. Par contre, l'accès au stream semble plus restreint (300 000 par heure, à confirmer, incertitude sur ce point).
+Pour le moment, la version de l'API de Twitter qui reste valable est le 1.1. La v2 la remplacera à un horizon non encore déterminé. La grande nouveauté, pour les chercheurs et chercheuses ([Academic Research Product Track](https://developer.twitter.com/en/solutions/academic-research/products-for-researchers)), de la v2 est la possibilité d'y demander accès en tant que chercheur / chercheuse et d'avoir un accès nettement plus large à l'historique des tweets: on passe de 3000 tweets par heure sur 7 jours max à 10 millions de tweets sur l'ensemble de l'historique de Twitter. Par contre, l'accès au stream semble plus restreint (300 000 par heure, à confirmer, incertitude sur ce point).
 
 ## twarc
 
