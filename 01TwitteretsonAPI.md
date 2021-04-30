@@ -8,7 +8,7 @@ Une interface de programmation applicative  (Application Programming Interface -
 
 Twitter a toujours eu une API permettant des collectes de données assez importantes, mais aussi des partages de fonctionnalités (les boutons type « partage sur Twitter » mais aussi la possibilité à partir d'une application ou d'un site web de publier un tweet au nom d'un utilisateur par exemple).
 
-Nous intéressent ici la possibilité de collecter des données via l'API de Twitter. Cette API donait jusqu'à présent (versions 1 puis 1.1) en gros trois possibilités de collecter des données:
+Nous intéresse ici la possibilité de collecter des données via l'API de Twitter. Cette API donait jusqu'à présent (versions 1 puis 1.1) en gros trois possibilités de collecter des données:
 
 - La recherche dans l'historique des tweets: sur une semaine dans le passé, jusqu'à 3000 tweets environ par heure;
 - La collecte du stream de tweets, soit jusqu'à 1% des tweets publiés, calculé par 1/4 d'heure;
@@ -26,7 +26,7 @@ Attention, l'utilisation d'outils respectant les terms of usage (TOS) de Twitter
 
 ## Les nouveautés de l'API v2
 
-Pour le moment, la version de l'API de Twitter qui reste valable est le 1.1. La v2 la remplacera à un horizon non encore déterminé. La grande nouveauté, pour les chercheurs et chercheuses ([Academic Research Product Track](https://developer.twitter.com/en/solutions/academic-research/products-for-researchers)), de la v2 est la possibilité d'y demander accès en tant que chercheur / chercheuse et d'avoir un accès nettement plus large à l'historique des tweets: on passe de 3000 tweets par heure sur 7 jours max à 10 millions de tweets sur l'ensemble de l'historique de Twitter. Par contre, l'accès au stream semble plus restreint (300 000 par heure, à confirmer, incertitude sur ce point).
+Pour le moment, la version de l'API de Twitter qui reste valable est le 1.1. La v2 la remplacera à un horizon non encore déterminé. La grande nouveauté, pour les chercheurs et chercheuses de la v2 est la possibilité d'y demander accès en tant que chercheur / chercheuse et d'avoir un accès nettement plus large à l'historique des tweets: on passe de 3000 tweets par heure sur 7 jours max à 10 millions de tweets sur l'ensemble de l'historique de Twitter ([Academic Research Product Track](https://developer.twitter.com/en/solutions/academic-research/products-for-researchers)). Par contre, l'accès au stream semble plus restreint qu'avec la v1.1.
 
 ## twarc
 
