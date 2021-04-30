@@ -1,4 +1,4 @@
-# Première requête avec twarc
+# Premières requêtes avec twarc
 
 L'installation de twarc permet l'usage de deux commandes distinctes: twarc et twarc2. `twarc`utilisera l'API v1.1 et `twarc2`qui permet d'interagir avec l'API v2. 
 
@@ -16,7 +16,9 @@ Rentrer le token.
 
 Dans un terminal (Terminal.app sous macOS, Terminal sous linux, ... sous Windows), entrer:
 
-`twarc2 search 'votremotclé' > votremotclé.json`
+`twarc2 search 'votremotclé' --limit=1000 > votremotclé.json`
+
+On limite ici la requête à 1000 tweets, pour ne pas diminuer trop notre quota mensuel de tweets.
 
 puis
 
@@ -26,3 +28,11 @@ votremotclé.csv sera ouvrable par un tableur (excel, calc, etc). Attention, con
 
 Ouvrons le fichier votremotclé.csv. Regardez les dates. Que constatez-vous?
 
+## Chercher dans l'historique des tweets
+
+Nous allons maintenant faire notre première requête fouillant dans l'historique des tweets au-delà d'une semaine.
+
+`twarc2 search --archive 'votremotclé' --limit=1000 --start-time 2018-01-01 --end-time 2018-12-31 > votremotclé.json`
+
+
+[<<< Retour]() | [Suivant >>>]()
