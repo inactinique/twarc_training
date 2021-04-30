@@ -35,4 +35,4 @@ Nous allons maintenant faire notre première requête fouillant dans l'historiqu
 `twarc2 search --archive 'votremotclé' --limit=1000 --start-time 2018-01-01 --end-time 2018-12-31 > votremotclé.json`
 
 
-[<<< Retour](04CreerAppTwitter.md)
+[<<< Retour](04CreerAppTwitter.md) | [Suivant >>>](06Ressources.md)
