@@ -56,4 +56,4 @@ Les actes de la journée des archives "Pérenniser l'éphémère. Archivage et m
 
 > Je me permets d'y mentionner mon chapitre: « Sources en flux. Collecter, analyser, archiver, pérenniser ».
 
-[<<< Retour]()
+[<<< Retour](05PremiereRequeteAvecTwarc.md)
