@@ -25,6 +25,12 @@ Nous devons aussi vérifier que l'utilitaire pour python 'pip' est installé:
 
 `pip --version`
 
+Selon les ordinateurs et les installations de python et de pip, vous devrez peut-être taper:
+
+`pip3 --version`
+
+`python -m pip --version`
+
 Le résultat devrait être quelque chose comme: 'pip 21.0.1 from /chemin/installation/de/pip (python 3.x)'
 
 Si pip n'est pas installé, vous pouvez l'installer en suivant les instructions du site https://pip.pypa.io/en/latest/installing/.
