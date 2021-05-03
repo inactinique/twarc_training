@@ -22,7 +22,7 @@ On limite ici la requête à 1000 tweets, pour ne pas diminuer trop notre quota 
 
 puis
 
-`twarc-csv votremotclé.json > votremotcle.csv`
+`twarc2 csv votremotclé.json > votremotcle.csv`
 
 votremotclé.csv sera ouvrable par un tableur (excel, calc, etc). Attention, conservez le json à titre d'archive. Le format json, mieux structuré que le csv, est plus approprié pour une conservation / archivage de vos données.
 
