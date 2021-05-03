@@ -8,6 +8,8 @@ Pour une première installation
 
 `pip install twarc-csv`
 
+Pour tous les usages de pip, selon les installations, vous devrez peut-être utiliser la commande `pip3` ou `python -m pip`.
+
 Pour une mise à jour
 
 `pip install --upgrade twarc`
