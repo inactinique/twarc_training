@@ -34,5 +34,23 @@ Nous allons maintenant faire notre première requête fouillant dans l'historiqu
 
 `twarc2 search --archive 'votremotclé' --limit=1000 --start-time 2018-01-01 --end-time 2018-12-31 > votremotclé.json`
 
+## Ajouter des plug-ins
+
+twarc2 permet l'installation de plug-ins. Nous en avons d'ailleurs déjà installé un: twarc-csv.
+
+Les plug-ins installables pour le moment (4 mai 2021) sont les suivants:
+
+- twarc-csv
+- twarc-ids
+- twarc-videos
+- twarc-timelines
+
+Prenons l'exemple de twarc-videos:
+
+`python -m pip install twarc-videos` pour installer le plug-in
+
+`twarc2 videos votreFichier.json` pour récupérer les vidéos publiées dans les tweets de votre corpus
+
+Un nouveau dossier « videos » sera créé avec les vidéos téléchargées et un fichier mapping.tsv pour la correspondance tweet / vidéo. 
 
 [<<< Retour](04CreerAppTwitter.md) | [Suivant >>>](06Ressources.md)
